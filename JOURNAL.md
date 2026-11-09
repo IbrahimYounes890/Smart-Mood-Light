@@ -89,6 +89,17 @@ It's finally time to completly be done with week 5!
 It's been a journey with a LOT of ups and downs. I had to make another major change again...  but it all worked out in the end.
 
 # Sourcing components
-I looked through
+I looked through the Alieexpress store to find some things I needed. I found the microcontroller and the LED strip, and I already have a photodetector.  But then I realized, I do not have enough money for the vase part of my project!
+
+![image](https://halflife.hackclub-assets.com/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/023aaa78ca815049351f1dfae386fc353717d3fa49f06747d7bbc4539c69a2fd.png)
+
+# Different solution?
+
+I asked half-life help channel, and NestOfGhosts responded and helped me! He helped me choose a paper type enclosure for my lamp instead, which turned out really cool!
+
+![image](https://halflife.hackclub-assets.com/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/d12632547399cb7a71a0df40dfc121c6f2d4eb0ea60da78c29afe0eb4bbd03bd.png)
+
+# Finishing up Github
+I went through and added eevrything I needed for my project, files, and I'm finally done!
 
 [Timelapse](https://lookout.hackclub.com/api/media/172b1038-d877-43d7-aa3a-e9f7e3c3e020/video.mp4)
