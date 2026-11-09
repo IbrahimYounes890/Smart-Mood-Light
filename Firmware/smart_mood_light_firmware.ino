@@ -1,7 +1,7 @@
 #include <ResponsiveAnalogRead.h>
 #include <FastLED.h>
 
-#define NUM_LEDS 60 // Numebr of LEDS
+#define NUM_LEDS 60  // Numebr of LEDS
 #define DATA_PIN 43 // set to LED DATA
 
 const int ANALOG_PIN = 1; // set to PHOTO DATA
