@@ -15,6 +15,7 @@ It is a lamp lit by addressable LEDs that changes brightness level based on the 
 * GL5528 5mm LDR sensor
 * Addressable LED Strip
 * USB-C cable and old phone brick
+* Paper Lamp Shade
 
 # Onshape editable link
 https://cad.onshape.com/documents/c83e2ca68be29e39de6bfa29/w/91d286d50efbf4c9841edc42/e/7582ea165eabe61043ae719c?renderMode=0&uiState=6af117debd206f1b6778ba01
